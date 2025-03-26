@@ -11,6 +11,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-umeshsarkar-181717?style=flat&logo=github)](https://github.com/umeshsarkar)
 
 <!--
+
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshsarkar&layout=compact)
+
+
 **umeshsarkar/umeshsarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
