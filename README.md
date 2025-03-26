@@ -8,7 +8,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umeshsarkar&show_icons=true&theme=dark)](https://github.com/umeshsarkar)  
 
 ## 🔗 Let's Connect  
-[![GitHub](https://img.shields.io/badge/GitHub-umeshsarkar-181717?style=flat&logo=github)](https://linkedin.com/in/umeshsevra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-umeshsarkar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umeshsarkar)
 
 <!--
 
